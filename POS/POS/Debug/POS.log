@@ -1,0 +1,19 @@
+﻿生成启动时间为 2019/6/27 14:24:01。
+     1>项目“D:\Tobby Lau\Desktop\POS\POS\POS.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I"D:\web\mysql-5.5.56-win32\include" /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\POS.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt POSDlg.cpp
+         POSDlg.cpp
+     1>d:\tobby lau\desktop\pos\pos\posdlg.cpp(174): warning C4101: “mysql”: 未引用的局部变量
+     1>d:\tobby lau\desktop\pos\pos\posdlg.cpp(174): warning C4101: “sock”: 未引用的局部变量
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Tobby Lau\Desktop\POS\Debug\POS.exe" /INCREMENTAL /NOLOGO /LIBPATH:"D:\web\mysql-5.5.56-win32\lib" libmysql.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"D:\Tobby Lau\Desktop\POS\Debug\POS.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Tobby Lau\Desktop\POS\Debug\POS.lib" /MACHINE:X86 Debug\POS.res
+         Debug\POS.obj
+         Debug\POSDlg.obj
+         Debug\stdafx.obj
+         LINK : 没有找到 D:\Tobby Lau\Desktop\POS\Debug\POS.exe 或上一个增量链接没有生成它；正在执行完全链接
+         POS.vcxproj -> D:\Tobby Lau\Desktop\POS\Debug\POS.exe
+     1>已完成生成项目“D:\Tobby Lau\Desktop\POS\POS\POS.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:02.08

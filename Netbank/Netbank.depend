@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1561684884 source:d:\tobby lau\desktop\netbank\main.cpp
+	"stdio.h"
+	"stdlib.h"
+	"string.h"
+	"time.h"
+	<Windows.h>
+	<mysql.h>
+	<WinSock2.h>
+	<winsock.h>
+
+1493277150 d:\web\mysql-5.5.56-win32\include\mysql.h
+	<standards.h>
+	<sys/types.h>
+	<winsock2.h>
+	"mysql_version.h"
+	"mysql_com.h"
+	"mysql_time.h"
+	"my_list.h"
+	"typelib.h"
+	"my_alloc.h"
+
+1493277839 d:\web\mysql-5.5.56-win32\include\mysql_version.h
+	<custom_conf.h>
+
+1493277150 d:\web\mysql-5.5.56-win32\include\mysql_com.h
+
+1493277150 d:\web\mysql-5.5.56-win32\include\mysql_time.h
+
+1493277150 d:\web\mysql-5.5.56-win32\include\my_list.h
+
+1493277150 d:\web\mysql-5.5.56-win32\include\typelib.h
+	"my_alloc.h"
+
+1493277150 d:\web\mysql-5.5.56-win32\include\my_alloc.h
+
